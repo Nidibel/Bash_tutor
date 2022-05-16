@@ -1,23 +1,24 @@
 # Bash_tutor
 Scripts de iniciación a Bash
 
-## Dependences
+## Dependencias
 * Terminal
 
 ## Instalación
 
 Descargar los scripts (en la carpeta de su preferencia)
 Cambiar los permisos de ejecución
+
 En la terminal:
 ```
-/directorio/destino/ chmod 004 taller1_bioinformatica_basica.sh
-/directorio/destino/ chmod 004 taller2_bioinformatica_basica.sh
+/directorio/destino/ chmod 100 taller1_bioinformatica_basica.sh
+/directorio/destino/ chmod 100 taller2_bioinformatica_basica.sh
 
 ```
 
 ## Ejecución
 
-Ejecutar los scripts y seguir las intrucciones
+Ejecutar los scripts y seguir las instrucciones
 
 En la terminal:
 ```
@@ -25,11 +26,6 @@ En la terminal:
 ./taller2_bioinformatica_basica.sh
 
 ```
-
-
-##### Notas:
-
-
  
 ## Desarrollador
 
