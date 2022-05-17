@@ -1,12 +1,15 @@
 # Bash_tutor
 Scripts de iniciación a Bash
 
+
 ## Dependencias
 * Terminal
+
 
 ## Instalación
 
 Descargar los scripts (en la carpeta de su preferencia)
+
 Cambiar los permisos de ejecución
 
 En la terminal:
@@ -30,4 +33,5 @@ En la terminal:
 ## Desarrollador
 
 M. en MM. Nidia Beltrán Hernández 
+
 Laboratorio Biología de Sistemas y Medicina Translacional, Facultad de Nutrición-Universidad Autónoma del Estado de Morelos
