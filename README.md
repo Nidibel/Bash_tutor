@@ -1,8 +1,13 @@
 # Bash_tutor
-Scripts de iniciación a Bash
+Scripts de iniciación a Bash para:
+
+* Manejo de carpetas
+* Cambio de persmisos
 
 
 ## Dependencias
+
+* Sistema Operativo con UNIX
 * Terminal
 
 
